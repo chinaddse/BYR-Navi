@@ -37,3 +37,4 @@ exclude:
 - Gemfile.lock
 - script
 - vendor
+theme: jekyll-theme-slate
